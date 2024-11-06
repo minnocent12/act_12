@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "852172347291",
+    "project_id": "act12-ec260",
+    "storage_bucket": "act12-ec260.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852172347291:android:bfe2d9eb4e55116e59f33e",
+        "android_client_info": {
+          "package_name": "com.example.act12"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfKU8gzCJHdsg_NqdGkZ8eWVoy8D4f3-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
